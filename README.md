@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on Software Engineering bootcamp with Masterschool
 - 🇪🇺 I’m an European from Germany 🇩🇪
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+- 💬 In my free time I enjoy: nature 🌿, cooking 🍳, reading 📖
 
 ## 📫 Let's Connect
 
