@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Stefanie!
 
-- 🔭 I’m currently working on Software Engineering bootcamp with Masterschool
+- 🔭 I’m currently doing a Web Dev bootcamp with Masterschool
 - 🇪🇺 I’m an European from Germany 🇩🇪
 - 💬 In my free time I enjoy: nature 🌿, cooking 🍳, reading 📖
 
